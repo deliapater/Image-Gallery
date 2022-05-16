@@ -1,3 +1,9 @@
+# Image Gallery
+React.js application that implements hooks (such as useState and useEffect) and is styled with Tailwind CSS
+
+## Screen Grabs
+![photo-gallery](./public/images/photo-gallery.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
